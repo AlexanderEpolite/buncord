@@ -1,0 +1,16 @@
+{
+  "name": "buncord",
+  "module": "src/index.ts",
+  "version": "0.0.1",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "discord-interactions": "^4.1.0",
+    "elysia": "^1.2.11"
+  }
+}
