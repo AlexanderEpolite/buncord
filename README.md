@@ -13,3 +13,7 @@ Planned supported features:
 - Slash commands
 
 Everything will be fully typed; slash command parameters will appear typed in your methods, like tRPC.
+
+## Discord Server
+
+For status updates and announcements, please visit https://discord.gg/KWjSJw4mcP1
